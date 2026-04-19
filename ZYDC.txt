@@ -1,0 +1,12 @@
+{
+  "storeHouse": [
+    {
+      "sourceName": "💚codebergZYDX🍭",
+      "sourceUrl": "https://codeberg.org/jiayinmidi/ZYDX/raw/branch/main/ZYDX.txt"
+    },
+    {
+      "sourceName": "💛githubZYDX🍭",
+      "sourceUrl": "https://raw.githubusercontent.com/jiayinmidi/githubZYDX/refs/heads/main/ZYDX.txt"
+    }
+  ]
+}
