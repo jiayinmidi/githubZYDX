@@ -1,8 +1,9 @@
 {"urls": [
+{"name":"玉玉影视【瓜子花旗潮流荐片】","url": "https://raw.giteeusercontent.com/jiayinmidi/zydx/raw/master/%E7%8E%89%E7%8E%89%E5%BD%B1%E8%A7%86ZJHJ.txt?metadata=eyJyIjoibWFzdGVyIiwiZnAiOiLnjonnjonlvbHop4ZaSkhKLnR4dCIsInVpZCI6MTQ0MDMzMjIsInBpZCI6NDA4MTU1MDYsInN0byI6ImdpdC1zaGFyZGluZy1zdG8tNDJ0LTAxMyIsInJwIjoicmVwb3MvOTgvYjYvOThiNjU0M2I2MmU3Yjk3MmEzNGQ1MTQ1YTEyMWZiNzEzNTFjMzViODhjYzFkMWNhOGZmNWU1ZTY0ZDE4M2RmZS5naXQiLCJpc3AiOnRydWUsImV4cGlyZV9hdCI6MTc3NzQ1NTAwMH0&signature=TyfVCa-LzIagMUEaKtdwXaFjJjSwnQzO9L9vXmrKDco"},
 {"name":"豆瓣自用","url": "https://gitee.com/jiayinmidi/zydx/raw/master/%E7%8E%89%E7%8E%89%E5%BD%B1%E8%A7%86ZJHJ.txt"},
 {"name":"天天【剧评主角柠檬哔哩动漫】","url": "https://gitee.com/jiayinmidi/zydx/raw/master/qiaojijingjian.txt"},
-{"name":"精简【永乐农民】","url": "https://gitee.com/jiayinmidi/zydx/raw/master/jingjianyuan.json"},
-{"name":"精简源【爱奇艺电影天堂如意CMS茅台360豆瓣】","url":"https://codeberg.org/jiayinmidi/jingjianyuan/raw/branch/main/jingjianyuan.json"},
+{"name":"精简【永乐农民】","url": "https://raw.giteeusercontent.com/jiayinmidi/zydx/raw/master/jingjianyuan.json?metadata=eyJyIjoibWFzdGVyIiwiZnAiOiJqaW5namlhbnl1YW4uanNvbiIsInBpZCI6NDA4MTU1MDYsInN0byI6ImdpdC1zaGFyZGluZy1zdG8tNDJ0LTAxMyIsInJwIjoicmVwb3MvOTgvYjYvOThiNjU0M2I2MmU3Yjk3MmEzNGQ1MTQ1YTEyMWZiNzEzNTFjMzViODhjYzFkMWNhOGZmNWU1ZTY0ZDE4M2RmZS5naXQiLCJpc3AiOnRydWUsImV4cGlyZV9hdCI6MTc3NzQ1NTAwMH0&signature=iCk5b_3X7xzxLCBQ_OEBQCrr1qBfwN7tIYGk5mqD7js"},
+{"name":"精简源【爱奇艺电影天堂如意CMS茅台360豆瓣】","url":"https://raw.githubusercontent.com/jiayinmidi/MyDB/refs/heads/main/jingjianyuan.json"},
 {"name":"百度采集【Btt秒播新V6百度索尼暴风非凡淘片】","url":"https://codeberg.org/jiayinmidi/BaiDucaiji/raw/branch/main/BaiDucaiji.txt"},
 {"name":"饭太硬【热播糯米奶酪】","url":"http://www.饭太硬.com/tv"},
 {"name":"大强欧歌【奇优柠檬聚搜爱看火狐骚火80S音乐】","url": "https://xn--pss44lze608n.v.nxog.top/m/?ou=公众号装歌app&mz=index&jar=index&b=大强影视"},
