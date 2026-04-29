@@ -1,8 +1,8 @@
 {
   "storeHouse": [
     {
-      "sourceName": "💚codebergZYDX🍭",
-      "sourceUrl": "https://codeberg.org/jiayinmidi/ZYDX/raw/branch/main/ZYDX.txt"
+      "sourceName": "💚giteeZYDX🍭",
+      "sourceUrl": "https://raw.giteeusercontent.com/jiayinmidi/zydx/raw/master/ZYDX.txt?metadata=eyJyIjoibWFzdGVyIiwiZnAiOiJaWURYLnR4dCIsInVpZCI6MTQ0MDMzMjIsInBpZCI6NDA4MTU1MDYsInN0byI6ImdpdC1zaGFyZGluZy1zdG8tNDJ0LTAxMyIsInJwIjoicmVwb3MvOTgvYjYvOThiNjU0M2I2MmU3Yjk3MmEzNGQ1MTQ1YTEyMWZiNzEzNTFjMzViODhjYzFkMWNhOGZmNWU1ZTY0ZDE4M2RmZS5naXQiLCJpc3AiOnRydWUsImV4cGlyZV9hdCI6MTc3NzQ1NTYwMH0&signature=l4yysYIv-FxF9OJ3YrVYhkUoODu57LqlNctvA7kZEtU"
     },
     {
       "sourceName": "💛githubZYDX🍭",
