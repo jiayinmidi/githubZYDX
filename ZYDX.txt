@@ -1,6 +1,7 @@
 {"urls": [
 {"name":"玉玉影视【瓜子花旗潮流荐片】","url": "https://raw.giteeusercontent.com/jiayinmidi/zydx/raw/master/%E7%8E%89%E7%8E%89%E5%BD%B1%E8%A7%86ZJHJ.txt?metadata=eyJyIjoibWFzdGVyIiwiZnAiOiLnjonnjonlvbHop4ZaSkhKLnR4dCIsInVpZCI6MTQ0MDMzMjIsInBpZCI6NDA4MTU1MDYsInN0byI6ImdpdC1zaGFyZGluZy1zdG8tNDJ0LTAxMyIsInJwIjoicmVwb3MvOTgvYjYvOThiNjU0M2I2MmU3Yjk3MmEzNGQ1MTQ1YTEyMWZiNzEzNTFjMzViODhjYzFkMWNhOGZmNWU1ZTY0ZDE4M2RmZS5naXQiLCJpc3AiOnRydWUsImV4cGlyZV9hdCI6MTc3NzQ1NTAwMH0&signature=TyfVCa-LzIagMUEaKtdwXaFjJjSwnQzO9L9vXmrKDco"},
 {"name":"豆瓣自用","url": "https://gitee.com/jiayinmidi/zydx/raw/master/%E7%8E%89%E7%8E%89%E5%BD%B1%E8%A7%86ZJHJ.txt"},
+{"name":"南方精简【天天厂长苹果电影港柚子电影天堂360永夜】","url": "https://raw.githubusercontent.com/jiayinmidi/githubZYDX/refs/heads/main/NanFangJingJian"},
 {"name":"天天【剧评柠檬】","url": "https://gitee.com/jiayinmidi/zydx/raw/master/qiaojijingjian.txt"},
 {"name":"精简源","url":"https://raw.githubusercontent.com/jiayinmidi/MyDB/refs/heads/main/jingjianyuan.json"},
 {"url": "https://xn--pss44lze608n.v.nxog.top/apib.php?id=21","name": "光歌【歌曲戏曲哔哩套餐】"},  
