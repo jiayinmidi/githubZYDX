@@ -18,7 +18,6 @@
 {"name":"小米接口","url":"https://mitvbox.xyz/小米/DEMO.json"},
 {"name":"小虎斑【永乐天天文才晚霞】","url": "http://hb.小虎斑.site:25252/仅供测试"},
 {"name":"莱斯","url": "https://tv.xn--yhqu5zs87a.top"}, 
-{"name": "高天流云","url": "https://ghproxy.net/https://raw.githubusercontent.com/debaters6/XYQ/master/0821.json"},  
 {"name":"杰歌【1905荐片热播金牌哔哩】","url": "https://xn--pss44lze608n.v.nxog.top/apib.php?id=2"},
 {"name":"盒子迷【一起文才厂长新V6浪酷哔哩糯米】","url": "https://xn--pss44lze608n.v.nxog.top/apib.php?id=3"},
 {"name":"小米【聚搜星星AIYIN秒播JUZI热播顾我王子金牌哔哩】","url": "https://xn--pss44lze608n.v.nxog.top/apib.php?id=7"},
