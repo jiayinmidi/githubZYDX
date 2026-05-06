@@ -18,6 +18,8 @@
 {"name":"小米接口","url":"https://mitvbox.xyz/小米/DEMO.json"},
 {"name":"小虎斑【永乐天天文才晚霞】","url": "http://hb.小虎斑.site:25252/仅供测试"},
 {"name":"莱斯","url": "https://tv.xn--yhqu5zs87a.top"}, 
+{"name":"心魔","url": "https://wget.la/https://raw.githubusercontent.com/yw88075/tvbox/main/yw.json"},
+{"name": "VOX","url": "https://code.onedev.io/vox/~raw/master/demo.json"},
 {"name":"杰歌【1905荐片热播金牌哔哩】","url": "https://xn--pss44lze608n.v.nxog.top/apib.php?id=2"},
 {"name":"盒子迷【一起文才厂长新V6浪酷哔哩糯米】","url": "https://xn--pss44lze608n.v.nxog.top/apib.php?id=3"},
 {"name":"小米【聚搜星星AIYIN秒播JUZI热播顾我王子金牌哔哩】","url": "https://xn--pss44lze608n.v.nxog.top/apib.php?id=7"},
