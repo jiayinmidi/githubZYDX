@@ -1,5 +1,5 @@
 {"urls": [
-{"name":"豆瓣自用","url": "https://gitee.com/jiayinmidi/zydx/raw/master/%E7%8E%89%E7%8E%89%E5%BD%B1%E8%A7%86ZJHJ.txt"},
+{"name":"豆瓣自用","url": "https://raw.githubusercontent.com/jiayinmidi/githubZYDX/refs/heads/main/wannengyuan.txt"},
 {"name":"南方精简【天天厂长苹果电影港柚子电影天堂360永夜】","url": "https://raw.githubusercontent.com/jiayinmidi/githubZYDX/refs/heads/main/NanFangJingJian"},
 {"name":"菜妮丝【精简】","url": "https://gitee.com/jiayinmidi/zydx/raw/master/qiaojijingjian.txt"},
 {"name":"精简源","url":"https://raw.githubusercontent.com/jiayinmidi/MyDB/refs/heads/main/jingjianyuan.json"},
