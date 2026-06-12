@@ -1,7 +1,8 @@
 {"urls": [
 {"name":"豆瓣codeberg","url": "https://codeberg.org/jiayinmidi/WANNENGYUAN/raw/branch/main/TXT/wannengyuan.txt"},
 {"name":"豆瓣github","url": "https://raw.githubusercontent.com/jiayinmidi/githubZYDX/refs/heads/main/wannengyuan.txt"},
-{"name":"南方精简【天天厂长苹果电影港柚子电影天堂360永夜】","url": "https://raw.githubusercontent.com/jiayinmidi/githubZYDX/refs/heads/main/NanFangJingJian"},
+{"name":"南方精简codeberg【瓜子天天永夜】","url": "https://codeberg.org/jiayinmidi/WANNENGYUAN/raw/branch/main/NanFangJingJian/NanFangJingJian.txt"},
+{"name":"南方精简github【瓜子天天永夜】","url": "https://raw.githubusercontent.com/jiayinmidi/githubZYDX/refs/heads/main/NanFangJingJian"},
 {"name":"南风瓜子【apkck.top】","url":"https://wget.la/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"},
 {"name":"东篱瓜子【apkck.top】","url":"https://wget.la/https://raw.githubusercontent.com/chitue/dongliTV/main/api.json"},
 {"name":"光歌【精简】","url": "https://gitee.com/jiayinmidi/zydx/raw/master/qiaojijingjian.txt"},
