@@ -27,6 +27,17 @@
       "api": "https://jihulab.com/ysxsbk/xduo/-/raw/main/libs/drpy2.min.js",
       "ext": "https://jihulab.com/ysxsbk/xduo/-/raw/main/libs/douban.js"
     },
+    {
+      "key": "lf_js_lf_live",
+      "name": "📺️直播｜娱乐",
+      "type": 3,
+      "api": "https://raw.giteeusercontent.com/jiayinmidi/zydb/raw/master/apiv583lf_live_min.js?metadata=eyJyIjoibWFzdGVyIiwiZnAiOiJhcGl2NTgzbGZfbGl2ZV9taW4uanMiLCJ1aWQiOjE0NDAzMzIyLCJwaWQiOjQwNjQyNDI2LCJzdG8iOiJnaXQtc2hhcmRpbmctc3RvLTQydC0wMTMiLCJycCI6InJlcG9zLzczLzJiLzczMmI4YzYyZmMzZTQ1NTQ0MmYyOTg4YTg2YTQ4NjVlODE2NmY1YThmMWQwNjBjZDRhZjBlMGJjNjA1YWU5MzkuZ2l0IiwiaXNwIjp0cnVlLCJleHBpcmVfYXQiOjE3ODQyNDU4MDB9&signature=loEY1olVVqIV2e4SYoPYmp_dAe8hCaKE720Wvlfbrbs",
+      "searchable": 1,
+      "changeable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.giteeusercontent.com/jiayinmidi/zydb/raw/master/%E7%94%B5%E8%A7%86%E7%9B%B4%E6%92%AD.txt?metadata=eyJyIjoibWFzdGVyIiwiZnAiOiLnlLXop4bnm7Tmkq0udHh0IiwidWlkIjoxNDQwMzMyMiwicGlkIjo0MDY0MjQyNiwic3RvIjoiZ2l0LXNoYXJkaW5nLXN0by00MnQtMDEzIiwicnAiOiJyZXBvcy83My8yYi83MzJiOGM2MmZjM2U0NTU0NDJmMjk4OGE4NmE0ODY1ZTgxNjZmNWE4ZjFkMDYwY2Q0YWYwZTBiYzYwNWFlOTM5LmdpdCIsImlzcCI6dHJ1ZSwiZXhwaXJlX2F0IjoxNzg0MjQ1ODAwfQ&signature=dLDdHaswV2mNe1B6DTiRlxVPVsnkHXmx4DcNkUQHTKM"
+    },
 {"key": "爱奇艺","name": "❤爱奇艺","type": 1,"viewType": 1,"api": "https://iqiyizyapi.com/api.php/provide/vod","playUrl": "","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["国产动漫","日韩动漫","欧美动漫","港台动漫","动漫电影","电影","综艺","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","惊悚片","家庭片","古装片","历史片","悬疑片","犯罪片","灾难片","记录片","短片","国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","短剧"]},
 {"key":"墨斗资源","name":"❤墨斗","type":1,"api":"https://www.mdzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories": ["国产动漫","日韩动漫","欧美动漫","港台动漫","动漫电影","电影","综艺","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","惊悚片","家庭片","古装片","历史片","悬疑片","犯罪片","灾难片","记录片","短片","国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","短剧"]},
 {"key": "电影天堂","name": "❤电影天堂","type": 1,"viewType": 1,"api": "http://caiji.dyttzyapi.com/api.php/provide/vod","playUrl": "","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["连续剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","记录片","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","短剧","动画片"]},
