@@ -28,7 +28,7 @@
 {"name": "SVIP在线【卧龙极速如意医药相声小品戏曲多多】","url": "https://gh-proxy.com/https://raw.githubusercontent.com/xmbjm/svip/refs/heads/main/svip.json"},
 {"url": "https://xn--pss44lze608n.v.nxog.top/apib.php?id=17","name": "🌟巧技【天天剧评电影港客星柚子360优质永夜】🌟"},
 {"url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json","name": "🚀南风【永夜天天苹果瓜子电影港金牌】"},
-{"url": "https://xn--pss44lze608n.v.nxog.top/apib.php?id=20","name": "🌟南风【永夜天天苹果瓜子电影港金牌】🌟"}
+{"url": "https://xn--pss44lze608n.v.nxog.top/apib.php?id=20","name": "🌟南风【永夜天天苹果瓜子电影港金牌】🌟"},
 {"name":"戏曲","url": "http://mzrjk.top/唱戏"},
 {"name":"音乐","url": "http://mzrjk.top/听歌"},
 {"name":"智教","url": "http://mzrjk.top/智教"},
