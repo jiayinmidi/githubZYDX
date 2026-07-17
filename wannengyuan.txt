@@ -61,6 +61,20 @@
       "ext": "https://raw.giteeusercontent.com/jiayinmidi/zydb/raw/master/%E7%94%B5%E8%A7%86%E7%9B%B4%E6%92%AD.txt?metadata=eyJyIjoibWFzdGVyIiwiZnAiOiLnlLXop4bnm7Tmkq0udHh0IiwidWlkIjoxNDQwMzMyMiwicGlkIjo0MDY0MjQyNiwic3RvIjoiZ2l0LXNoYXJkaW5nLXN0by00MnQtMDEzIiwicnAiOiJyZXBvcy83My8yYi83MzJiOGM2MmZjM2U0NTU0NDJmMjk4OGE4NmE0ODY1ZTgxNjZmNWE4ZjFkMDYwY2Q0YWYwZTBiYzYwNWFlOTM5LmdpdCIsImlzcCI6dHJ1ZSwiZXhwaXJlX2F0IjoxNzg0MjQ1ODAwfQ&signature=dLDdHaswV2mNe1B6DTiRlxVPVsnkHXmx4DcNkUQHTKM"
     },
     {
+      "name": "🍉瓜子",
+      "key": "Guazi",
+      "type": 3,
+      "api": "csp_GuaziAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "sites": "",
+        "filters": "https://file.icve.com.cn/file_doc/822/528/CD984013F5776F759DFC815995F87BFB.aowu"
+      },
+      "jar": "https://nos.netease.com/ysf/4e96ca1a41efeb4b3fa96a507f12b74b.png"
+    },
+    {
       "key": "csp_Wwys",
       "name": "🔥农民┃影视",
       "type": 3,
