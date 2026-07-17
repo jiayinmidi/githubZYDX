@@ -27,34 +27,6 @@
       "api": "https://jihulab.com/ysxsbk/xduo/-/raw/main/libs/drpy2.min.js",
       "ext": "https://jihulab.com/ysxsbk/xduo/-/raw/main/libs/douban.js"
     },
-    {
-      "key": "免费影院",
-      "name": "免费影院",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
-      "searchable": 1,
-      "style": {
-        "ratio": 1.43
-      },
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/免费影院.json"
-    },
-    {
-      "key": "麦田",
-      "name": "麦田",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./lib/XBPQ.jar",
-      "searchable": 1,
-      "style": {
-        "ratio": 1.43
-      },
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/麦田.json"
-    },
 {"key": "爱奇艺","name": "❤爱奇艺","type": 1,"viewType": 1,"api": "https://iqiyizyapi.com/api.php/provide/vod","playUrl": "","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["国产动漫","日韩动漫","欧美动漫","港台动漫","动漫电影","电影","综艺","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","惊悚片","家庭片","古装片","历史片","悬疑片","犯罪片","灾难片","记录片","短片","国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","短剧"]},
 {"key":"墨斗资源","name":"❤墨斗","type":1,"api":"https://www.mdzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories": ["国产动漫","日韩动漫","欧美动漫","港台动漫","动漫电影","电影","综艺","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","惊悚片","家庭片","古装片","历史片","悬疑片","犯罪片","灾难片","记录片","短片","国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","短剧"]},
 {"key": "电影天堂","name": "❤电影天堂","type": 1,"viewType": 1,"api": "http://caiji.dyttzyapi.com/api.php/provide/vod","playUrl": "","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["连续剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","记录片","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","短剧","动画片"]},
