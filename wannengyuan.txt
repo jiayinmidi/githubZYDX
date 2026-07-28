@@ -88,7 +88,7 @@
       "key": "免费影院",
       "name": "㊙️免费影院",
       "type": 3,
-      "api": "csp_XBPQ",
+      "api": "https://gitee.com/jiayinmidi/zydx/blob/master/XBPQ.jar",
       "jar": "https://gitee.com/jiayinmidi/zydx/blob/master/xyqxbpq.jar",
       "searchable": 1,
       "style": {
