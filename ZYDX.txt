@@ -4,6 +4,7 @@
 {"name":"豆瓣github","url": "https://raw.githubusercontent.com/jiayinmidi/githubZYDX/refs/heads/main/wannengyuan.txt"},
 {"name":"茄子瓜子","url":"https://700sjro44343.vicp.fun/eggp/qzku/tv.json"},
 {"name":"精简源github","url":"https://raw.githubusercontent.com/jiayinmidi/MyDB/refs/heads/main/jingjianyuan.json"},
+{"url": "https://xn--pss44lze608n.v.nxog.top/apib.php?id=11","name": "🌟 OK线路【瓜子热播师兄一起荐片永乐央视】🌟"},
 {"url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json","name": "🚀南风【瓜子天天小苹果电影港金牌】"},
 {"url": "https://xn--pss44lze608n.v.nxog.top/apib.php?id=20","name": "🌟南风【瓜子天天小苹果电影港金牌】🌟"},
 {"name":"南风瓜子【apkck.top】","url":"https://wget.la/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"},
